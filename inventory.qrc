@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/enchanted.jpg</file>
+        <file>sounds/mango.wav</file>
+    </qresource>
+</RCC>

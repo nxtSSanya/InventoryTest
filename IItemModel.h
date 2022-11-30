@@ -32,9 +32,7 @@ signals:
     void inventoryItemChanged(const InventoryItemData &inventoryItemData);
     /*Изменение ячейки*/
     void inventoryCellChanged(const InventoryCellData &inventoryCellData);
-    /**
-     * @brief Событие готовности данных для инвентаря
-     */
+    /*Событие готовности данных для инвентаря*/
     void inventoryTableChanged(const InventoryTableData &inventoryTableData);
     /*Очистка инвентаря*/
     void inventoryTableCleared();
